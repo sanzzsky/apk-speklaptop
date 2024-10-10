@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">SpekLaptop</string>
+
+    <string name="creator_photo_desc">sanz_foto</string>
+    <string name="creator_name">Sandi zikrullah</string>
+    <string name="creator_email">a265b4ky4060@bangkit.academy</string>
+    <string name="creator_info">Ini adalah aplikasi yang dikembangkan oleh Sanzzsky.</string>
+
+    <!-- Nama Laptop -->
+    <string-array name="laptop_names">
+        <item>MacBook Air M1</item>
+        <item>Dell XPS 13</item>
+        <item>Lenovo Legion 5</item>
+        <item>HP Spectre x360</item>
+        <item>Asus ROG Zephyrus G14</item>
+        <item>Acer Swift 3</item>
+        <item>Microsoft Surface Laptop 4</item>
+        <item>Razer Blade 15</item>
+        <item>Asus ZenBook 14</item>
+        <item>Apple MacBook Pro 16</item>
+        <item>Dell Inspiron 15</item>
+        <item>HP Pavilion 14</item>
+    </string-array>
+
+    <!-- Deskripsi Laptop -->
+    <string-array name="laptop_descriptions">
+    <item>
+        Laptop ringan dengan chip M1 yang sangat cepat dan efisien dari Apple. Dengan desain yang elegan dan tipis, MacBook Air M1 menawarkan performa luar biasa yang dapat menangani tugas-tugas berat seperti editing video dan pengembangan perangkat lunak. Daya tahan baterai yang mencapai 15 jam membuatnya ideal untuk digunakan sepanjang hari.
+    </item>
+        <item>
+        Laptop ultraportabel dengan layar tanpa batas dan performa tinggi. Dell XPS 13 menghadirkan layar 13 inci yang memukau dengan resolusi 4K, memberikan pengalaman visual yang luar biasa. Dengan bodi aluminium yang premium dan keyboard yang nyaman, XPS 13 sangat cocok untuk profesional yang sering bepergian.
+    </item>
+        <item>
+        Laptop gaming dengan performa tinggi yang didukung prosesor AMD Ryzen 7 dan GPU NVIDIA RTX 3060. Lenovo Legion 5 dirancang khusus untuk gamer dengan fitur pendinginan yang efisien dan keyboard RGB yang responsif. Dengan layar 15 inci dan refresh rate 144Hz, pengalaman bermain game menjadi lebih lancar dan imersif.
+    </item>
+        <item>
+        Laptop konvertibel premium dengan desain ramping dan performa solid. HP Spectre x360 memungkinkan pengguna untuk beralih antara mode laptop dan tablet dengan mudah. Ditenagai oleh prosesor Intel Core i7 dan dilengkapi dengan stylus, laptop ini ideal untuk para profesional kreatif yang membutuhkan fleksibilitas.
+    </item>
+        <item>
+        Laptop gaming ultra-portabel dengan kekuatan besar dalam ukuran kecil. Asus ROG Zephyrus G14 menawarkan performa yang mengesankan dalam desain yang ringkas, dilengkapi dengan layar 14 inci beresolusi tinggi dan daya tahan baterai yang luar biasa. Laptop ini cocok untuk gamer yang ingin bermain di mana saja.
+    </item>
+        <item>
+        Laptop ringan dengan baterai tahan lama dan performa yang handal. Acer Swift 3 hadir dengan desain yang ramping dan bobot yang ringan, sehingga mudah dibawa. Ditenagai oleh prosesor Intel Core i5 dan RAM 8GB, laptop ini sangat ideal untuk kebutuhan sehari-hari, seperti browsing dan pekerjaan kantor.
+    </item>
+        <item>
+        Laptop ultra-tipis dengan desain premium dan kinerja seimbang. Microsoft Surface Laptop 4 menawarkan pengalaman menggunakan Windows yang sangat mulus dengan layar PixelSense yang tajam. Dengan daya tahan baterai hingga 16 jam, laptop ini cocok untuk pelajar dan profesional yang membutuhkan perangkat yang dapat diandalkan.
+    </item>
+        <item>
+        Laptop gaming premium dengan desain ramping dan kinerja grafis luar biasa. Razer Blade 15 menawarkan komponen kelas atas dan bodi aluminium yang kokoh, menjadikannya pilihan utama bagi para gamer serius. Dengan layar 15 inci yang mendukung refresh rate tinggi, setiap permainan menjadi lebih responsif dan menarik.
+    </item>
+        <item>
+        Laptop portabel dengan layar NanoEdge dan daya tahan baterai yang luar biasa. Asus ZenBook 14 memiliki bezel yang sangat tipis, memberikan tampilan yang lebih luas dalam ukuran yang ringkas. Dengan desain yang elegan dan performa tinggi, laptop ini sangat cocok untuk para profesional yang menginginkan gaya dan fungsi dalam satu paket.
+    </item>
+        <item>
+        Laptop profesional dengan layar besar dan performa tinggi untuk para kreator. Apple MacBook Pro 16 dilengkapi dengan chip M1 Pro yang menawarkan kecepatan dan efisiensi. Dengan layar Retina 16 inci, laptop ini ideal untuk editing video dan desain grafis, memberikan warna yang akurat dan detail yang tajam.
+    </item>
+        <item>
+        Laptop serbaguna dengan harga terjangkau dan performa yang dapat diandalkan. Dell Inspiron 15 adalah pilihan ideal untuk pengguna yang menginginkan keseimbangan antara harga dan fitur. Dengan prosesor Intel dan RAM 8GB, laptop ini dapat menangani tugas sehari-hari seperti browsing, streaming, dan aplikasi office dengan mudah.
+    </item>
+        <item>
+        Laptop stylish dengan layar full HD dan performa baik untuk pekerjaan sehari-hari. HP Pavilion 14 hadir dengan desain modern dan bobot yang ringan, membuatnya mudah dibawa. Ditenagai oleh prosesor AMD Ryzen 5, laptop ini cukup kuat untuk multitasking dan penggunaan aplikasi sehari-hari.
+    </item>
+    </string-array>
+
+
+    <!-- Spesifikasi Laptop -->
+    <string-array name="laptop_specs">
+        <item>Processor: Apple M1, RAM: 8GB, Storage: 256GB SSD</item>
+        <item>Processor: Intel i7, RAM: 16GB, Storage: 512GB SSD</item>
+        <item>Processor: AMD Ryzen 7, RAM: 16GB, Storage: 1TB SSD</item>
+        <item>Processor: Intel i7, RAM: 16GB, Storage: 512GB SSD</item>
+        <item>Processor: AMD Ryzen 9, RAM: 16GB, Storage: 1TB SSD</item>
+        <item>Processor: Intel i5, RAM: 8GB, Storage: 512GB SSD</item>
+        <item>Processor: Intel i7, RAM: 16GB, Storage: 512GB SSD</item>
+        <item>Processor: Intel i7, RAM: 16GB, Storage: 1TB SSD, GPU: NVIDIA RTX 3070</item>
+        <item>Processor: Intel i5, RAM: 8GB, Storage: 512GB SSD</item>
+        <item>Processor: Apple M1 Pro, RAM: 16GB, Storage: 1TB SSD</item>
+        <item>Processor: Intel i5, RAM: 8GB, Storage: 512GB SSD</item>
+        <item>Processor: Intel i5, RAM: 8GB, Storage: 512GB SSD</item>
+    </string-array>
+
+    <!-- Display Size Laptop -->
+    <string-array name="laptop_display_sizes">
+        <item>Display: 13.3 inch</item>
+        <item>Display: 13.4 inch</item>
+        <item>Display: 15.6 inch</item>
+        <item>Display: 13.3 inch</item>
+        <item>Display: 14 inch</item>
+        <item>Display: 14 inch</item>
+        <item>Display: 13.5 inch</item>
+        <item>Display: 15.6 inch</item>
+        <item>Display: 14 inch</item>
+        <item>Display: 16 inch</item>
+        <item>Display: 15.6 inch</item>
+        <item>Display: 14 inch</item>
+    </string-array>
+
+    <string-array name="laptop_battery_capacity">
+        <item>Battery: 49.9 Wh (15 jam)</item>
+        <item>Battery: 52 Wh (12 jam)</item>
+        <item>Battery: 80 Wh (10 jam)</item>
+        <item>Battery: 60 Wh (12 jam)</item>
+        <item>Battery: 76 Wh (10 jam)</item>
+        <item>Battery: 50 Wh (11 jam)</item>
+        <item>Battery: 47.4 Wh (10 jam)</item>
+        <item>Battery: 80 Wh (6 jam)</item>
+        <item>Battery: 67 Wh (10 jam)</item>
+        <item>Battery: 100 Wh (10 jam)</item>
+        <item>Battery: 42 Wh (8 jam)</item>
+        <item>Battery: 43 Wh (10 jam)</item>
+    </string-array>
+
+    <!-- Foto Laptop -->
+    <string-array name="laptop_images">
+        <item>@drawable/macbook_air</item>
+        <item>@drawable/dell_xps</item>
+        <item>@drawable/lenovo_legion</item>
+        <item>@drawable/hp_spectre</item>
+        <item>@drawable/asus_rog</item>
+        <item>@drawable/acer_swift</item>
+        <item>@drawable/surface_laptop</item>
+        <item>@drawable/razer_blade</item>
+        <item>@drawable/asus_zenbook</item>
+        <item>@drawable/macbook_pro</item>
+        <item>@drawable/dell_inspiron</item>
+        <item>@drawable/hp_pavilion</item>
+    </string-array>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
